@@ -1,0 +1,17 @@
+# Секрети та локальні змінні середовища
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets/
+
+# Архіви для здачі в LMS
+*.zip
+
+# Системні файли та налаштування редакторів
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
